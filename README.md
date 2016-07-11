@@ -1,6 +1,6 @@
 # Junior Golf Hub UI Development
 
-### Staging Servier
+### Staging Server
 (coming soon)
 
 ### Dependencies
