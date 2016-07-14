@@ -1,1 +1,19 @@
 // Global Header
+header
+  padding-top: rem-calc(10)
+  padding-bottom: rem-calc(10)
+
+  img
+    margin-bottom: rem-calc(10)
+
+    @include breakpoint(medium)
+      margin-bottom: 0
+
+  .meta
+    text-align: center
+
+    a:first-of-type
+      margin-right: rem-calc(20)
+
+    @include breakpoint(medium)
+      text-align: right

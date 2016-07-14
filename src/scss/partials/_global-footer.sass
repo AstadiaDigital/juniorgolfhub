@@ -1,1 +1,43 @@
 // Global Footer
+footer
+  background-color: #232323;
+  color: #fff;
+
+  a
+    color: #232323
+
+  ul.social
+    list-style-type: none
+    margin: rem-calc(10) auto
+    overflow: hidden
+
+    // @media only screen and (max-width: 320px) and (orientation: portrait)
+    //   width: 64% // iPhone 5 Portrait
+    //
+    // @media only screen and (max-width: 568px) and (orientation: landscape)
+    //   width: 35% // iPhone 5 landscape
+    //
+    // @media only screen and (max-width: 375px) and (orientation: portrait)
+    //   width: 54% // iPhone 6 Portrait
+    //
+    // @media only screen and (max-width: 568px) and (orientation: landscape)
+    //   width: 35% // iPhone 6 landscape
+
+
+    li
+      display: inline
+
+      a
+        display: inline-block
+        margin-right: rem-calc(20)
+        background: #fff
+        border-radius: 50%
+        width: 50px
+        height: 50px
+
+        i.fa
+          padding-top: 10px;
+
+      &:last-child
+        a
+          margin-right: 0
