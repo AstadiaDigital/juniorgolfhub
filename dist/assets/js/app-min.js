@@ -1,2 +1,2 @@
-$(document).foundation();
+function check_if_in_view(){var i=$window.height(),n=$window.scrollTop(),e=n+i;$.each($animation_elements,function(){var i=$(this),o=i.outerHeight(),t=i.offset().top,w=t+o;w>=n&&e>=t?i.addClass("in-view"):i.removeClass("in-view")})}$(document).foundation();var $animation_elements=$(".animation-element"),$window=$(window);$window.on("scroll resize",check_if_in_view),$window.trigger("scroll");
 //# sourceMappingURL=./app-min.js.map

@@ -1,2 +1,2 @@
 $(document).foundation();
-// @codekit-append "";
+// @codekit-append "animate.js";
