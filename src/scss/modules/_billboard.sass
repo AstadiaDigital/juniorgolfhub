@@ -4,12 +4,15 @@
 
 .billboard
   background-attachment: fixed
-  background-position: top center
+  background-position: 70% center
   background-repeat: no-repeat
   position: relative;
   height: 472px
   color: $white
   box-sizing: border-box
+
+  @include breakpoint(medium)
+    background-position: top center
 
   &:before
     content: ""
