@@ -3980,6 +3980,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/dist\/assets\/img\/infographic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70518,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/infographic.png",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/infographic.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/assets\/img\/profile-coach.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107877,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/assets\/img\/profile-player.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100778,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/js\/app-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -4116,6 +4149,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/scss\/modules\/_buttons.sass",
 		"outputAbbreviatedPath": "\/src\/scss\/css\/_buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/src\/scss\/modules\/_section-infographic.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/scss\/modules\/_section-infographic.sass",
+		"outputAbbreviatedPath": "\/src\/scss\/css\/_section-infographic.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
