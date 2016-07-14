@@ -1,7 +1,7 @@
 # Junior Golf Hub UI Development
 
 ### Staging Server
-(coming soon)
+https://astadiadigital.github.io/juniorgolfhub/dist/
 
 ### Dependencies
 * Foundation http://foundation.zurb.com/docs/

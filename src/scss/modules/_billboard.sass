@@ -1,11 +1,20 @@
-.billboard
-  height: 550px
-  background-size: cover
-  background: url(../img/hero-billboard.jpg) no-repeat 70% center
-  color: $white
+#hero
+  background: url(../img/hero-billboard.jpg)
+  background-attachment: fixed;
 
-  @include breakpoint(medium)
-    background-position: center center
+.billboard
+  position: relative;
+  height: 550px
+  background: 50% 50% / cover
+  color: $white
+  box-sizing: border-box
+
+  &:before
+    content: ""
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
 
   h1,a
     color: $white !important
