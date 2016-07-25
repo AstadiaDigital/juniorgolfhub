@@ -4024,15 +4024,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/dist\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dist\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/package.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -4278,15 +4269,6 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": false
-		},
-	"\/src\/templates\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/templates\/index.kit",
-		"outputAbbreviatedPath": "\/dist\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1
 		},
 	"\/src\/templates\/modules\/_billboard.kit": {
 		"fileType": 2048,
