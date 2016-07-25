@@ -3991,6 +3991,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/dist\/assets\/img\/infographic_howitworks.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42403,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/infographic_howitworks.png",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/infographic_howitworks.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/img\/profile-coach.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
