@@ -3991,6 +3991,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/dist\/assets\/img\/infographic_howitworks-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41529,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/infographic_howitworks-mobile.png",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/infographic_howitworks-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/img\/infographic_howitworks.png": {
 		"fileType": 32768,
 		"ignore": 0,
