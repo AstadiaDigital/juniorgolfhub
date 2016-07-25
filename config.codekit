@@ -4270,30 +4270,12 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/src\/templates\/modules\/_billboard.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/templates\/modules\/_billboard.kit",
-		"outputAbbreviatedPath": "\/dist\/_billboard.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/src\/templates\/partials\/_footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/templates\/partials\/_footer.kit",
 		"outputAbbreviatedPath": "\/dist\/_footer.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/src\/templates\/partials\/_header.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/templates\/partials\/_header.kit",
-		"outputAbbreviatedPath": "\/dist\/_header.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
