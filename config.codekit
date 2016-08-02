@@ -4330,6 +4330,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/templates\/modules\/_section-coaches.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/modules\/_section-coaches.kit",
+		"outputAbbreviatedPath": "\/dist\/_section-coaches.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/modules\/_section-get-started.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/modules\/_section-get-started.kit",
+		"outputAbbreviatedPath": "\/dist\/_section-get-started.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/modules\/_section-how-it-works.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/modules\/_section-how-it-works.kit",
+		"outputAbbreviatedPath": "\/dist\/_section-how-it-works.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/modules\/_section-players.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/modules\/_section-players.kit",
+		"outputAbbreviatedPath": "\/dist\/_section-players.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/modules\/_section-profiles.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/modules\/_section-profiles.kit",
+		"outputAbbreviatedPath": "\/dist\/_section-profiles.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/templates\/partials\/_footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
