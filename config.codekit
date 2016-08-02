@@ -4024,6 +4024,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/dist\/assets\/img\/players.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38627,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/players.jpeg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/players.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/dist\/assets\/img\/profile-coach.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
