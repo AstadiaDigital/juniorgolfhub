@@ -4404,15 +4404,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/templates\/partials\/_meta.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/templates\/partials\/_meta.kit",
-		"outputAbbreviatedPath": "\/dist\/_meta.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/src\/templates\/partials\/_scripts.kit": {
 		"fileType": 2048,
 		"ignore": 1,
