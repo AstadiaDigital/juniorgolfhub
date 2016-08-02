@@ -3969,6 +3969,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dist\/assets\/img\/coaches.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52224,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/coaches.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/coaches.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/dist\/assets\/img\/hero-billboard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3978,7 +3989,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/hero-billboard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/dist\/assets\/img\/infographic.png": {
 		"fileType": 32768,
@@ -3989,7 +4000,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/infographic.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/dist\/assets\/img\/infographic_howitworks-mobile.png": {
 		"fileType": 32768,
@@ -4000,7 +4011,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/infographic_howitworks-mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/dist\/assets\/img\/infographic_howitworks.png": {
 		"fileType": 32768,
@@ -4011,7 +4022,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/infographic_howitworks.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/dist\/assets\/img\/profile-coach.jpg": {
 		"fileType": 16384,
@@ -4022,7 +4033,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/dist\/assets\/img\/profile-player.jpg": {
 		"fileType": 16384,
@@ -4033,7 +4044,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/dist\/assets\/js\/app-min.js": {
 		"fileType": 64,
