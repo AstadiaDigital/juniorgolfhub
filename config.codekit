@@ -4039,7 +4039,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 107877,
+		"initialSize": 44375,
 		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4050,7 +4050,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 100778,
+		"initialSize": 46712,
 		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4401,6 +4401,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/templates\/partials\/_header.kit",
 		"outputAbbreviatedPath": "\/dist\/_header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/partials\/_meta.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/partials\/_meta.kit",
+		"outputAbbreviatedPath": "\/dist\/_meta.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
