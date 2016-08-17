@@ -3980,6 +3980,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/dist\/assets\/img\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6333,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/favicon.png",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/img\/hero-billboard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4039,23 +4050,23 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 107877,
+		"initialSize": 44375,
 		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-coach.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/dist\/assets\/img\/profile-player.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 100778,
+		"initialSize": 46712,
 		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/dist\/assets\/js\/app-min.js": {
 		"fileType": 64,
@@ -4401,6 +4412,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/templates\/partials\/_header.kit",
 		"outputAbbreviatedPath": "\/dist\/_header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/partials\/_meta.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/partials\/_meta.kit",
+		"outputAbbreviatedPath": "\/dist\/_meta.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
