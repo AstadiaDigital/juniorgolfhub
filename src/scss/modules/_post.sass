@@ -1,10 +1,27 @@
 // Single Blog Post
-.post
+.post, .sidebar
   @include grid-column(12)
 
+.post
+  h1
+    font-size: rem-calc(36)
+    margin-bottom: 0
+
+  h4
+    font-size: rem-calc(24)
+    margin-bottom: 1rem
+  p
+    font-size: rem-calc(16)
+    line-height: 1.6
+
   @include breakpoint(medium)
-    @include grid-column(8)
-    @include grid-column-position(center)
+    @include grid-column(7)
+
+.sidebar
+  text-align: center
+
+  @include breakpoint(medium)
+    @include grid-column(5)
 
   .sharethis
     margin: 1rem 0

@@ -4310,6 +4310,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/src\/scss\/modules\/_search.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/scss\/modules\/_search.sass",
+		"outputAbbreviatedPath": "\/src\/scss\/css\/_search.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/src\/scss\/modules\/_section-infographic.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -4439,6 +4455,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/templates\/modules\/_billboard.kit",
 		"outputAbbreviatedPath": "\/dist\/_billboard.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/templates\/modules\/_search.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/templates\/modules\/_search.kit",
+		"outputAbbreviatedPath": "\/dist\/_search.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
