@@ -3991,17 +3991,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/assets\/img\/golfing-green.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.19321e+06,
-		"inputAbbreviatedPath": "\/dist\/assets\/img\/golfing-green.jpg",
-		"outputAbbreviatedPath": "\/dist\/assets\/img\/golfing-green.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/dist\/assets\/img\/hero-billboard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
