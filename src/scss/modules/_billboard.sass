@@ -1,8 +1,8 @@
 #hero
   background-image: url(../img/hero-billboard.jpg)
 
-
 .billboard
+  margin: 0 auto
   background-attachment: fixed
   background-size: cover
   background-position: 70% center
@@ -13,7 +13,9 @@
   box-sizing: border-box
 
   @include breakpoint(medium)
+    max-width: 1600px
     background-position: top center
+    background-size: 1500px 540px
 
   &:before
     content: ""
