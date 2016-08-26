@@ -3969,6 +3969,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dist\/assets\/img\/blog-billboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68225,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/blog-billboard.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/blog-billboard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/img\/coaches.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4075,6 +4086,17 @@
 		"initialSize": 46712,
 		"inputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
 		"outputAbbreviatedPath": "\/dist\/assets\/img\/profile-player.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/assets\/img\/promo-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5585,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/promo-bg.png",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/promo-bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4314,6 +4336,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/scss\/modules\/_post.sass",
 		"outputAbbreviatedPath": "\/src\/scss\/css\/_post.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/src\/scss\/modules\/_promo-box.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/scss\/modules\/_promo-box.sass",
+		"outputAbbreviatedPath": "\/src\/scss\/css\/_promo-box.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
